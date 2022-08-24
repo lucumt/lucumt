@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
+
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt)
+
+
 **lucumt/lucumt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
