@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcom to Rosen Lu's Github World 👋
 
 ![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
 
