@@ -5,7 +5,6 @@
 ![](https://img.shields.io/github/forks/lucumt/ghblog)
 ![](https://img.shields.io/github/stars/lucumt/ghblog)
 ![](https://img.shields.io/github/languages/count/lucumt/ghblog)
-![](https://img.shields.io/github/workflow/status/lucumt/ghblog/pages-auto-build-deploy)
 ![](https://img.shields.io/badge/coder-working-brightgreen)
 ![](https://img.shields.io/badge/skill-Java-success)
 ![](https://img.shields.io/badge/skill-Golang-success)
