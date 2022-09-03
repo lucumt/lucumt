@@ -5,6 +5,7 @@
 ![](https://img.shields.io/github/forks/lucumt/ghblog)
 ![](https://img.shields.io/github/stars/lucumt/ghblog)
 ![](https://img.shields.io/github/languages/count/lucumt/ghblog)
+![](https://img.shields.io/github/workflow/status/lucumt/ghblog/pages-auto-build-deploy)
 
 ![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
 
