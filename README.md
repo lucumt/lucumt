@@ -1,5 +1,11 @@
 ### Welcom to Rosen Lu's Github World 👋
 
+![](https://img.shields.io/github/commit-activity/m/lucumt/ghblog)
+![](https://img.shields.io/github/commit-activity/w/lucumt/ghblog)
+![](https://img.shields.io/github/forks/lucumt/ghblog)
+![](https://img.shields.io/github/stars/lucumt/ghblog)
+![](https://img.shields.io/github/languages/count/lucumt/ghblog)
+
 ![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
 
 <!--
