@@ -14,7 +14,15 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lucumt/count.svg)
 
-<table border="0">
+<style>
+  .custom_table {
+     border: none;
+	 cellspacing: 0;
+	 cellpadding: 0;
+  }
+</style>
+
+<table class="custom_table">
   <tbody>
       <tr>
           <td valign="top"><a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light" /></a></td>
