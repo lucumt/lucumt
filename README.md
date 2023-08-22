@@ -17,7 +17,7 @@
 <table>
   <tbody>
       <tr>
-          <td valign="top"><a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light" /></a></td>
+          <td valign="top"><a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light&hide=border" /></a></td>
           <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&hide_border=true&langs_count=10"/></td>
       </tr>
 	  <tr>
