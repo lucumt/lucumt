@@ -14,7 +14,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lucumt/count.svg)
 
-<table>
+<table width="100%">
   <tbody>
       <tr>
           <td valign="top"><a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light&hide=border" /></a></td>
