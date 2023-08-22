@@ -20,14 +20,6 @@
 
 ![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
 
-<table>
-  <tbody>
-      <tr>
-          <td>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10)</td>
-      </tr>
-  </tbody>
-</table>
-
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt)
 
@@ -45,3 +37,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tbody>
+      <tr>
+          <td>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10)</td>
+      </tr>
+  </tbody>
+</table>
