@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/skill-Python-success)
 ![](https://img.shields.io/badge/skill-MySQL-success)
 
+![Visitor Count](https://profile-counter.glitch.me/lucumt/count.svg)
+
 <a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light" /></a>
 
 ![常用编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10)
