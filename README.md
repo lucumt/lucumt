@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tbody><tr><td>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10)
-</td></tr></tbody></table>
+<table>
+  <tbody>
+      <tr>
+          <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10"/></td>
+      </tr>
+  </tbody>
+</table>
