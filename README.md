@@ -21,7 +21,7 @@
           <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&hide_border=true&langs_count=10"/></td>
       </tr>
 	  <tr>
-	    <td colspan="2" width="100%">
+	    <td colspan="2" width="100%" align="center">
 		  <img src="https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light&hide_border=true"/>
 		</td>
 	  </tr>
