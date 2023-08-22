@@ -14,15 +14,17 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lucumt/count.svg)
 
-![Rosen's github status](https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light) 
-
-
-<table>
+<table border="0">
   <tbody>
       <tr>
           <td valign="top"><a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light" /></a></td>
           <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&langs_count=10"/></td>
       </tr>
+	  <tr>
+	    <td colspan="2">
+		  <img src="https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light"/>
+		</td>
+	  </tr>
   </tbody>
 </table>
 
