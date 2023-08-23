@@ -14,18 +14,18 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lucumt/count.svg)
 
-<table width="100%">
+<table style="width:100%">
   <tbody>
       <tr>
-          <td valign="top" width="50%">
+          <td valign="top" style="width:50%">
 		   <a href="https://stackoverflow.com/users/3176419" target="blank"><img width="337px" src="https://stackoverflow-card.vercel.app/?userID=3176419&theme=stackoverflow-light&hide=border" /></a>
 	  </td>
-          <td valign="top" width="50%">
+          <td valign="top" style="width:50%">
 		   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucumt&layout=compact&hide_border=true&langs_count=10"/>
 	  </td>
       </tr>
 	  <tr>
-	    <td colspan="2" width="100%" align="center">
+	    <td colspan="2" style="width:100%" align="center">
 		  <img src="https://github-readme-stats.vercel.app/api?username=lucumt&show_icons=true&theme=light&hide_border=true"/>
 		</td>
 	  </tr>
